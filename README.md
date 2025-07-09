@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Irvansbase
-- 👀 I’m interested in HTML, CSS, JavaScript, React, Vue, Laravel
+- 👀 I’m interested in HTML, CSS, JavaScript, React, Vue, Laravel, Flutter, Kotlin, Swift
 - 🌱 I’m currently learning Front End
 - 💞️ I’m looking to collaborate on Software Company
 - 📫 How to reach me ...
